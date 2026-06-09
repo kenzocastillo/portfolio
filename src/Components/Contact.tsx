@@ -16,8 +16,8 @@ export const Contact = () => {
         </div>
 
         <div className="mt-8 flex gap-6 text-sm">
-          <a href="#">GitHub</a>
-          <a href="#">LinkedIn</a>
+          <a href="https://github.com/kenzocastillo">GitHub</a>
+          <a href="https://www.linkedin.com/in/kenzo-castillo/">LinkedIn</a>
           <a href="mailto:kenzovcastillo@gmail.com">Email</a>
         </div>
       </div>

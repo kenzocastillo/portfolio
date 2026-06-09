@@ -5,16 +5,16 @@ export const Project = () => {
       desc: "Full-stack shopping platform with authentication, cart, and order flow.",
       tech: ["Next.js", "TypeScript", "Prisma", "PostgreSQL"],
       image: "/kingsman_homepage.png",
-      live: "https://kingsmanclothing.vercel.app/",
-      code: "https://github.com/kvcastillo/kingsmanclothing",
+      live: "https://kingsmanco.vercel.app/",
+      code: "https://github.com/kenzocastillo/kingsmanco",
     },
     {
       name: "Job Application Tracker",
       desc: "Tool for tracking applications, interviews, and job pipeline progress.",
       tech: ["React", "Node.js", "Express", "Prisma"],
       image: "/jobtracker.png",
-      live: "https://job-application-tracker-peach-rho.vercel.app/",
-      code: "https://github.com/kvcastillo/job-application-tracker",
+      live: "https://hiretrackr-bykenzo.vercel.app/",
+      code: "https://github.com/kenzocastillo/hiretrackr",
     },
   ];
 
