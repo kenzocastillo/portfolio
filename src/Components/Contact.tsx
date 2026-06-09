@@ -16,9 +16,15 @@ export const Contact = () => {
         </div>
 
         <div className="mt-8 flex gap-6 text-sm">
-          <a href="https://github.com/kenzocastillo">GitHub</a>
-          <a href="https://www.linkedin.com/in/kenzo-castillo/">LinkedIn</a>
-          <a href="mailto:kenzovcastillo@gmail.com">Email</a>
+          <a href="https://github.com/kenzocastillo" target="_blank">
+            GitHub
+          </a>
+          <a href="https://www.linkedin.com/in/kenzo-castillo/" target="_blank">
+            LinkedIn
+          </a>
+          <a href="mailto:kenzovcastillo@gmail.com" target="_blank">
+            Email
+          </a>
         </div>
       </div>
     </section>
